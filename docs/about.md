@@ -1,59 +1,34 @@
-# Ampycides in ferens ita postquam
+# Who Am I
 
-## Moenia et pudorem sub atras genetrix
+## Background
 
-Lorem markdownum dicta, di pleno, uteroque valuere scelus occidat, in ubi erant
-ego vitta *carpsere* oscula. Cuncta quod parte Aegyptia obstitit *docuit arbore*
-inops; legit illa.
+I've worked as a technologist for 20 years, mostly fixing problems or building
+new systems in the classic sense of plugging firewalls into internet connections,
+building windows servers, desktops and laptops and then supporting people
+using those computers.
 
-> Scilicet revolvor vestigia tempore in vidisse videt floresque, et Apollo
-> flammae novitate condiderat populare! Et et capillis quamvis, rupit humus ego
-> concordi alligat non deorum in nomina. Enectum
-> [reges](http://www.deucalionhebre.io/vellera), medio nocendi resupinus perque
-> odit ira tota bracchia sequuntur, poenas? Austro quot vos tempora mihi corpore
-> mole inducta mixtusque ausum poenaeque enim sub tota murmure, pennis esse
-> ludere. Trahit dominoque minuuntur recondita *vestigia vipereis*, hastam, mihi
-> bipenni manus ac quid.
+> Mostly I've been learning from other people's mistakes.
 
-**Haec** facit nunc inferias. Agmen filia fuerunt pulmone tibi ante lacertis; et
-[humus](http://dotaberegenitore.com/quod-lustrat.html) atque Nisi: tota. Esse
-sua surrexit inde trepidum cunctosque harenas subitarum dictis aquarum vestra,
-haerentia.
+## What is this site for
 
-## Coronis miseris cognosceret gaudet vultus
+Its about time I started doing what I normally only get to talk about.
+So this site is hosted on git hub sites, using MKDocs and Materials theme.
 
-Parsque qua pollice, diu quem, est **hic intravere**! Ab Haemonia Iliaden
-contrarius turba pedibusque eandem, radice iam rapinae; capillis caeruleum
-totiens, ipsumque numen, dare. Funeribus in muneris altissimus clausura
-absumitur saevam. Sum castra tulit sinunt ora nympha mugitus nutrix crine imo
-decent, urbe.
-
-    floppy += udp.uat(4, hardening) * cyberbullyingParallelBasic(1,
-            barebones_vpi_rj) - compression_crt_cpc;
-    if (storagePathPetabyte.permalinkSipLink(multimedia, paper, 1)) {
-        mips += tigerSdslBalancing;
-        adapter(5);
-        regularJson = commercial_menu_frame;
-    } else {
-        cloudDithering = publishingSyntax;
-        dpi += bitrate_start * radcab_kilohertz_exabyte + 1;
-        defragment_raw_vector *=
-                bingNvramRt.daw_station_postscript.frameworkClickDram(
-                dithering_font_bitrate, 38, ergonomics_remote);
-    }
-    if (timeSector) {
-        expansion_time(resolutionSpider, executable_minimize);
-        folder(bugThumbnailSurge + usbFormulaFunction, parse);
-    }
-    skyscraperArrayHyper = sqlPoint;
-
-[Huic inquit](http://www.sunt.com/fallarelynceus) poterat crimina et sive et qui
-vocem Schoeneia deperit, [residunt ut](http://cupidine.com/) dulces [cumque nata
-egredere](http://baculo.com/temptatatamen.html) esse. Medio leve qua; Hippocoon
-alas, in levitate stetit. Numen recessu modo abstulit, istis et apta,
-sustinuisse inminet casus, at utar parte.
-
-Medii sequuntur: euntis revertebar fecit primosque referam, supinis aeterna
-fraudesque **corde ambiguis**, petit? Dedit dulcedine liliaque, et mariti
-traiecit ignorat solidum viderat territa evehor enim nequiquam veteremque mento.
-Posse cum regia plaustrum, cupidine terrae manus nec; cum.
+    site_name: Chiefeh Blog
+    site_description: 'Somewhere to post my stuff'
+    site_author: 'Gregory Bennett'
+    docs_dir: docs/
+    repo_name: 'chiefeh/chiefeh.github.io'
+    repo_url: 'https://github.com/chiefeh/chiefeh.github.io'
+    nav:
+        - Home: index.md
+        - About: about.md
+    google_analytics:
+      - G-58RNRQT219
+      - auto
+    theme:
+      name: material
+      palette:
+        scheme: slate
+        primary: light blue
+        accent: deep purple

@@ -7,9 +7,7 @@ repo_url: 'https://github.com/chiefeh/chiefeh.github.io'
 nav:
     - Home: index.md
     - About: about.md
-google_analytics:
-  - G-58RNRQT219
-  - auto
+google_analytics: ['G-58RNRQT219', 'chiefeh.github.io']
 theme:
   name: material
   palette:

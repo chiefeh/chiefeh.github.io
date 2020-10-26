@@ -12,7 +12,11 @@ using those computers.
 ## What is this site for
 
 Its about time I started doing what I normally only get to talk about.
-So this site is hosted on git hub sites, using MKDocs and Materials theme.
+So this site is hosted on github sites, using MkDocs and Materials theme.
+You can see the source code for this site by clicking on the link in the
+top right of the page or clicking [here](https://github.com/chiefeh/chiefeh.github.io)
+
+The mkdocs.yml file is listed below
 
     site_name: Chiefeh Blog
     site_description: 'Somewhere to post my stuff'

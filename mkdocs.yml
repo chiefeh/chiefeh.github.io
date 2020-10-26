@@ -1,0 +1,18 @@
+site_name: Chiefeh Blog
+site_description: 'Somewhere to post my stuff'
+site_author: 'Gregory Bennett'
+docs_dir: docs/
+repo_name: 'chiefeh/chiefeh.github.io'
+repo_url: 'https://github.com/chiefeh/chiefeh.github.io'
+nav:
+    - Home: index.md
+    - About: about.md
+google_analytics:
+  - G-58RNRQT219
+  - auto
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: blue grey
+    accent: green

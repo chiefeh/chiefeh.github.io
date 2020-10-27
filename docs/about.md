@@ -12,9 +12,11 @@ using those computers.
 ## What is this site for
 
 Its about time I started doing what I normally only get to talk about.
-So this site is hosted on github sites, using MkDocs and Materials theme.
-You can see the source code for this site by clicking on the link in the
-top right of the page or clicking [here](https://github.com/chiefeh/chiefeh.github.io)
+So this site is hosted on [GitHub Pages](https://pages.github.com/),
+using [MkDocs](https://mkdocs.readthedocs.io/en/stable/) and
+[Materials theme](https://squidfunk.github.io/mkdocs-material/).
+You can see the source code for this site by clicking on the link in the top
+right of the page or [here](https://github.com/chiefeh/chiefeh.github.io).
 
 The mkdocs.yml file is listed below
 
@@ -27,9 +29,6 @@ The mkdocs.yml file is listed below
     nav:
         - Home: index.md
         - About: about.md
-    google_analytics:
-      - G-58RNRQT219
-      - auto
     theme:
       name: material
       palette:

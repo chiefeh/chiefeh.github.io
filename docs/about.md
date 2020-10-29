@@ -37,3 +37,9 @@ The mkdocs.yml file is listed below
         scheme: slate
         primary: light blue
         accent: deep purple
+
+## Maintaining a consistent approach
+
+I've found that future me has always thanked past me for doing things the same
+way in regards to approach or patterns of behavior. Being consistent allows
+work to be completed faster (or probably less focus on documenting things).

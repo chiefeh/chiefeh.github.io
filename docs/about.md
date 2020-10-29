@@ -9,6 +9,13 @@ people using those computers.
 
 > Mostly I've been learning from other people's mistakes.
 
+## Why Chiefeh?
+
+Well, I took my gaming nick-name from the character Chief Miles O'Brien
+from Star Trek (TNG and DS9). Long before solidified my career working in
+technology|engineering I found myself fixing things that others had broken,
+and thus have come full circle. 
+
 ## What is this site for
 
 Its about time I started doing what I normally only get to talk about. I've

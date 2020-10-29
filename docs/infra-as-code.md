@@ -12,7 +12,7 @@ are already comfortable with.
 
 The two main technologies/products I will be Ansible and Terraform.
 
-## My First Infrastructure as code
+## [My First Infrastructure as code](iac/my-first-iac.md)
 Goal: To build a basic VPC with the necessary networking bits to host a simple
 hello world website that can be built and taken down using automation.
 

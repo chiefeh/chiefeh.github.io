@@ -1,7 +1,10 @@
 # My First Infrastructure as code
+
 ## Phase 0 - Code Repo
+
 Before building anything, need to create the repo. I will do this just by using
 the GitHub website.
+
 - Name the Repo
 - Make it public to [code in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/)
 - Add a README

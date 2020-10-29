@@ -7,6 +7,8 @@ repo_url: 'https://github.com/chiefeh/chiefeh.github.io'
 nav:
     - Home: index.md
     - About: about.md
+    - Git: git.md
+    - Markdown: markdown.md
     - IaC: infra-as-code.md
 theme:
   name: material

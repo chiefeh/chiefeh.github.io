@@ -10,4 +10,16 @@ ways will be subject to the environment that one is working in, what is permitte
 by the organisation, but most of the time its what the individuals or teams
 are already comfortable with.
 
-The two main technologies/products I will be Ansible and Terraform. 
+The two main technologies/products I will be Ansible and Terraform.
+
+## My First Infrastructure as code
+Goal: To build a basic VPC with the necessary networking bits to host a simple
+hello world website that can be built and taken down using automation.
+
+1. Create the "Build" phase which mostly creates the long lived stuff
+2. Create the "Deploy" phase which puts the revenue generating thing up there
+3. Create the "Destroy" phase which takes everything down again
+
+These three stages are how I see this working, there may be more to it but
+I'm starting with that. This project will live on it's
+[own page here](iac/my-first-iac.md)

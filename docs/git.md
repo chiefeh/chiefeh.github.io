@@ -8,3 +8,7 @@ to compare/contrast where necessary for my own benefit (and the reader's).
 I've decided to pay for a "Pro" GitHub Account - just because, I've also decided
 to sponsor [Jeff Geerling](https://github.com/geerlingguy) as I read a lot of his
 material and watch his awesome videos on YouTube. Top bloke.
+
+Got a shout out!
+
+![geerlingguy](img/shout-out.png)

@@ -19,8 +19,9 @@ The result creates this repository [https://github.com/chiefeh/my-first-iac](htt
 
 ### Get the development environment ready
 
-This document assumes the reader has git with ssh keys already setup.
-Create a new directory on the local computer and clone the new repository.
+This document assumes the reader has git with ssh keys already setup. If not,
+reference the Git part of this site. Create a new directory on the local
+computer and clone the new repository.
 
 ```
 PS C:\Users\Gregory\Documents\projects> git clone git@github.com:chiefeh/my-first-iac.git
@@ -58,8 +59,9 @@ To build the Infrastructure, I intend to use
 - Use a free TLS Certificate from [Lets Encrypt](https://letsencrypt.org/)
 
 A stretch goal to only use ARM based AMI and have the container be platform
-agnostic (with respect to ARM/X86)
+agnostic (with respect to ARM/X86). One part of this exercise is to learn containers
+and look at ways of running containers on AWS.
 
 ### GitHub Actions
 [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) is
-built into GitHub.
+built into GitHub and available to all account types.

@@ -12,3 +12,6 @@ containers and Continuous Integration/Continuous Delivery (CI/CD) to build the
 Infrastructure that will run applications. I am not a developer so a lot of this
 will be new to me, along with figuring out some new apps such as Atom.io,
 Git/GitHub and so on.
+
+## Cloud 9 
+This is a section to test an edit and commit from AWS Cloud9

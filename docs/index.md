@@ -15,3 +15,6 @@ Git/GitHub and so on.
 
 ## Cloud 9 
 This is a section to test an edit and commit from AWS Cloud9
+
+## Linux Laptop
+This is a section to test an edit and commit from my linux laptop

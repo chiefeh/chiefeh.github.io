@@ -1,4 +1,4 @@
-![ci](https://github.com/chiefeh/chiefeh.github.io/workflows/ci/badge.svg?branch=main)
+![Continous Integration](https://github.com/chiefeh/chiefeh.github.io/workflows/Continous%20Integration/badge.svg)
 
 # README
 

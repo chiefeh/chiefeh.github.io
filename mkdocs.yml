@@ -12,16 +12,7 @@ nav:
     - IaC: infra-as-code.md
 theme:
   name: material
-#  palette:
-#    scheme: slate
-#    primary: light blue
-#    accent: deep purple
   palette:
-    - scheme: default
-      toggle:
-          icon: material/toggle-switch
-          name: Switch to light mode
-    - scheme: slate
-      toggle:
-          icon: material/toggle-switch-off-outline
-          name: Switch to dark mode
+    scheme: slate
+    primary: light blue
+    accent: deep purple

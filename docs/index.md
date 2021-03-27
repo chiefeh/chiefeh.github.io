@@ -1,5 +1,7 @@
 # Welcome to Chiefeh's Blog
 
+### This is the https://chiefeh.github.io version
+
 I've decided to start recording my technology things so I can reference them
 in future when I forget things and for the benefit of others who are in a
 similar position. I've chosen MkDocs as the way to convert Markdown
@@ -13,7 +15,7 @@ Infrastructure that will run applications. I am not a developer so a lot of this
 will be new to me, along with figuring out some new apps such as Atom.io,
 Git/GitHub and so on.
 
-## Cloud 9 
+## Cloud 9
 This is a section to test an edit and commit from AWS Cloud9
 
 ## Linux Laptop

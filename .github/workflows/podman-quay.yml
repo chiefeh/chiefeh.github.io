@@ -15,8 +15,7 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
-      - run: sed -i '3s/chiefeh.github.io/container build/' ./docs/index.md
-      - run: echo ${{ github.sha }}
+      - run: sed -i '3s/chiefeh.github.io/container from git commit/' ./docs/index.md
       - run: sed -i "3s:version:$SHA:" ./docs/index.md
       - run: mkdocs build
       - run: podman build -t my-first-container -f Containerfile

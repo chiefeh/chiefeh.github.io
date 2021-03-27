@@ -17,7 +17,11 @@ which to build out lots of learnings.
 The MKDocs site contents simply need to be put into a container and served from
 a web server. This is done using a new workflow in GitHub actions using podman
 and a Container file (in lieu of Docker) and posting it using quay.io for the
-container registry.
+container registry. You can find the container here:
+https://quay.io/repository/chiefeh/my-first-container and run it using
+```
+podman run --rm -p 8080:80 quay.io/chiefeh/my-first-container
+```
 
 ## Infrastructure as code
 Infrastructure as code (IaC) will depend on Terraform, Ansible,

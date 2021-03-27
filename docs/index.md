@@ -1,6 +1,6 @@
 # Welcome to Chiefeh's Blog
 
-### This is the https://chiefeh.github.io version
+### This is the chiefeh.github.io version
 
 I've decided to start recording my technology things so I can reference them
 in future when I forget things and for the benefit of others who are in a

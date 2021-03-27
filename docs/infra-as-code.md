@@ -23,7 +23,7 @@ These three stages are how I see this working, there may be more to it but
 I'm starting with that. This project will live on it's
 [own page here](iac/my-first-iac.md)
 
-## [My Second Infrastructure as code](iac/my-second-iac.md)
+## My Second Infrastructure as code
 Goal: To build a basic VPC with the necessary networking bits to host a simple
 hello world website that can be built and taken down using automation.
 

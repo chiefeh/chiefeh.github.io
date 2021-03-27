@@ -9,14 +9,19 @@ files into nice to look at websites with search.
 See the about section to see how I built this (and is acting as my first project
 to learn about this new world!)
 
-First up is Infrastructure as code (IaC). This will depend on Terraform, Ansible,
-containers and Continuous Integration/Continuous Delivery (CI/CD) to build the
-Infrastructure that will run applications. I am not a developer so a lot of this
-will be new to me, along with figuring out some new apps such as Atom.io,
-Git/GitHub and so on.
+## GitHub Pages using MkDocs
+This is the first step, to create this site and use it as an anchor around
+which to build out lots of learnings.
 
-## Cloud 9
-This is a section to test an edit and commit from AWS Cloud9
+## Building a Container
+The MKDocs site contents simply need to be put into a container and served from
+a web server. This is done using a new workflow in GitHub actions using podman
+and a Container file (in lieu of Docker) and posting it using quay.io for the
+container registry.
 
-## Linux Laptop
-This is a section to test an edit and commit from my linux laptop
+## Infrastructure as code
+Infrastructure as code (IaC) will depend on Terraform, Ansible,
+containers (see previous) and Continuous Integration/Continuous Delivery (CI/CD)
+to build the Infrastructure that will run applications. I am not a developer so
+a lot of this will be new to me, along with figuring out some new apps such as
+Atom.io, Git/GitHub and so on.

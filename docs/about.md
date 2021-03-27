@@ -2,10 +2,9 @@
 
 ## Background
 
-I've worked as a technologist for 20 years, mostly fixing problems or building
-new systems in the classic sense of plugging firewalls into internet
-connections, building windows servers, desktops and laptops and then supporting
-people using those computers.
+I've worked as some person who tinkers with tech, mostly fixing a problem here
+and there or building new systems in the classic sense of plugging firewalls
+into internet connections, building windows servers, desktops and laptops...
 
 > Mostly I've been learning from other people's mistakes.
 
@@ -14,7 +13,7 @@ people using those computers.
 Well, I took my gaming nick-name from the character Chief Miles O'Brien
 from Star Trek (TNG and DS9). Long before solidified my career working in
 technology|engineering I found myself fixing things that others had broken,
-and thus have come full circle. 
+and thus have come full circle.
 
 ## What is this site for
 

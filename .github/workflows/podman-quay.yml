@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       QUAY_PASSWORD: ${{ secrets.QUAY_PASSWORD }}
-      REF: ${GITHUB_REF##*/}
+      REF: ${{ github.event.release.tag_name }}
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2

@@ -1,4 +1,4 @@
-name: 'Build Container'
+name: 'mkdocs gh-deploy'
 on:
   push:
     branches:

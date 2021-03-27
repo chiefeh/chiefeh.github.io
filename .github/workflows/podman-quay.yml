@@ -15,7 +15,7 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs-material
       - run: echo $GITHUB_REF
-      - run: sed -i "s/chiefeh.github.io/container $GITHUB_REF/" ./docs/index.md
+      - run: sed -i 's/chiefeh.github.io/container/' ./docs/index.md
       - run: mkdocs build
       - run: podman build -t my-first-container -f Containerfile
       - run: podman login -u="chiefeh" -p="$QUAY_PASSWORD" quay.io

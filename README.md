@@ -1,4 +1,4 @@
-![Continous Integration](https://github.com/chiefeh/chiefeh.github.io/workflows/Continous%20Integration/badge.svg)
+[![podman](https://github.com/chiefeh/chiefeh.github.io/actions/workflows/podman-quay.yml/badge.svg)](https://github.com/chiefeh/chiefeh.github.io/actions/workflows/podman-quay.yml) [![mkdocs gh-deploy](https://github.com/chiefeh/chiefeh.github.io/actions/workflows/gh-build.yml/badge.svg)](https://github.com/chiefeh/chiefeh.github.io/actions/workflows/gh-build.yml)
 
 # README
 

@@ -16,11 +16,7 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs-material
       - run: sed -i '3s/chiefeh.github.io/container from git commit/' ./docs/index.md
-<<<<<<< HEAD
       - run: sed -i "3s:version:$SHA:" ./docs/index.md
-=======
-      - run: sed -i "3s:version:$SHA8:" ./docs/index.md
->>>>>>> 41e850aed4a509ddcd5d6ecb0ebf518e1df8d4fa
       - run: mkdocs build
       - run: podman build -t my-first-container -f Containerfile
       - run: podman login -u="chiefeh" -p="$QUAY_PASSWORD" quay.io

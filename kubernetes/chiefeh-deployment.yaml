@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: chiefeh-demo
+  namespace: chiefeh-demo
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: chiefeh-demo
+  template:
+    metadata:
+      labels:
+        app: chiefeh-demo
+    spec:
+      containers:
+      - name: chiefeh-demo
+        image: quay.io/chiefeh/my-first-container
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 80

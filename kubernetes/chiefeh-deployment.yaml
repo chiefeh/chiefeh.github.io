@@ -4,7 +4,7 @@ metadata:
   name: chiefeh-demo
   namespace: chiefeh-demo
 spec:
-  replicas: 1
+  replicas: 4
   selector:
     matchLabels:
       app: chiefeh-demo

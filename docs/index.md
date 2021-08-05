@@ -29,3 +29,6 @@ containers (see previous) and Continuous Integration/Continuous Delivery (CI/CD)
 to build the Infrastructure that will run applications. I am not a developer so
 a lot of this will be new to me, along with figuring out some new apps such as
 Atom.io, Git/GitHub and so on.
+
+## 2021-AUG
+Hello World 2021

@@ -2,6 +2,7 @@
 I like Fedora, and Enterprise Linux in general by preference. 
 
 Some reference notes for setting up a fresh machine.
+
 - [x] Powerline Shell
 - [x] SSH Key Setup
 - [x] Git Setup

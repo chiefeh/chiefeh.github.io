@@ -24,6 +24,9 @@ if [ -f `which powerline-daemon` ]; then
 fi
 ```
 
+This will make your shell look something like this:
+![powerline](img/powerline.png)
+
 ## SSH Key Setup
 SSH is how everything communicates... ed25519 is supported by most things these days.
 ```

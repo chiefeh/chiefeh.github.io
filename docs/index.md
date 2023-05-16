@@ -6,8 +6,6 @@ I've decided to start recording my technology things so I can reference them
 in future when I forget things and for the benefit of others who are in a
 similar position. I've chosen MkDocs as the way to convert Markdown
 files into nice to look at websites with search.
-See the about section to see how I built this (and is acting as my first project
-to learn about this new world!)
 
 ## GitHub Pages using MkDocs
 This is the first step, to create this site and use it as an anchor around

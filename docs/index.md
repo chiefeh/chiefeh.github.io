@@ -1,4 +1,4 @@
-# Welcome to Chiefeh's Blog 2022
+# Welcome to Chiefeh's Blog 2023
 
 **This is the chiefeh.github.io version**
 
@@ -30,5 +30,5 @@ to build the Infrastructure that will run applications. I am not a developer so
 a lot of this will be new to me, along with figuring out some new apps such as
 Atom.io, Git/GitHub and so on.
 
-## 2021-AUG
-Hello World 2021
+## 2023 Update
+New Job. Time to reset.

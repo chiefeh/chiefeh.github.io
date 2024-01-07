@@ -1,4 +1,4 @@
-# Welcome to Chiefeh's Blog 2023
+# Welcome to Chiefeh's Blog
 
 **This is the chiefeh.github.io version**
 
@@ -30,3 +30,6 @@ Atom.io, Git/GitHub and so on.
 
 ## 2023 Update
 New Job. Time to reset.
+
+## 2024 Update
+Another new job. Time to reset again, and restart this!
